@@ -12,3 +12,4 @@ C:\Users\pauli\Desktop\Learning C#\Code\obj\Debug\net8.0\refint\Code.dll
 C:\Users\pauli\Desktop\Learning C#\Code\obj\Debug\net8.0\Code.pdb
 C:\Users\pauli\Desktop\Learning C#\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
 C:\Users\pauli\Desktop\Learning C#\Code\obj\Debug\net8.0\ref\Code.dll
+C:\Users\pauli\Desktop\Learning C#\Code\obj\Debug\net8.0\Code.sourcelink.json
